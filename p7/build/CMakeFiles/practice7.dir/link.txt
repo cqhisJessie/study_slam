@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/practice7.dir/p7.cpp.o  -o practice7 -rdynamic 
